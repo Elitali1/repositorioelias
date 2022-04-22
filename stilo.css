@@ -7,3 +7,10 @@ h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 45px;
 }
+h2{
+    color: blue;
+    font-family: cursive;
+}
+p{
+    color: blueviolet;
+}
